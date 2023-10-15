@@ -45,6 +45,3 @@ Researchers and developers can use this code to test and experiment with differe
 
 ## and also
 Keep in mind that this code is a basic example, and you can modify and expand upon it to suit your specific needs and creative ideas. Depending on your goals and requirements, you can use it as a foundation for more complex and sophisticated applications involving real-time video and image processing.
-
-
-opencv, ascii
